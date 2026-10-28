@@ -1,50 +1,28 @@
-# Welcome to your Expo app 👋
+# 🐍 Snake Game — React Native
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+https://github.com/user-attachments/assets/6c8b25e8-8ed5-41fa-954f-8678df3145d5
 
-## Get started
+A mobile implementation of the classic Snake Game, developed using React Native. The project explores interactive gameplay, game logic, movement mechanics, and mobile application development.
 
-1. Install dependencies
+## 🎯 Project Objective
 
-   ```bash
-   npm install
-   ```
+The objective of this project is to recreate the classic Snake Game in a mobile application while gaining practical experience with React Native and interactive application development.
 
-2. Start the app
+## ✨ Overview
 
-   ```bash
-   npx expo start
-   ```
+The game is based on the traditional Snake gameplay concept, where players control a snake and aim to grow its length by collecting food while avoiding collisions.
 
-In the output, you'll find options to open the app in a
+## 🛠️ Technology Stack
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- **React Native** — Mobile application development
+- **JavaScript / TypeScript** — Application logic, depending on the implementation
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 📚 Learning Outcomes
 
-## Get a fresh project
+- Understanding mobile application architecture
+- Implementing interactive game mechanics
+- Managing game state and user input
+- Practicing debugging and problem-solving
 
-When you're ready, run:
 
-```bash
-npm run reset-project
-```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
